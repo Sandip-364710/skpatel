@@ -3,6 +3,7 @@
 <img align="right" alt="coding" width="400px"  src="https://github.com/Sandip-364710/Sandip-364710/assets/153447817/37d72f6d-b1b5-49f6-9e0e-575d58138913">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://linkedin.com/in/sandip patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip patel" height="30" width="40" /></a>
 <a href="https://fb.com/sandip patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandip patel" height="30" width="40" /></a>
 <a href="https://instagram.com/sandip_jakhaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakhaniyasandip" height="30" width="40" /></a>
