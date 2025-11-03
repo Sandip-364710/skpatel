@@ -57,7 +57,7 @@
   <li><a href="https://www.w3profile.com/skpatel" target="_blank">🌐 W3School Profile</a></li>
   <li><a href="https://skpatel17.netlify.app/" target="_blank">📁 My Portfolio Website</a></li>
 </ul>
-### MYResume
+### 📄 My Resume:
 <ul>
-  <li><a href="Sandip_Resume.pdf">MyResume</li>
+  <li><a href="Sandip_Resume.pdf" download="Sandip_Patel_Resume.pdf">📥 Download My Resume</a></li>
 </ul>
