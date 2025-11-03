@@ -59,5 +59,5 @@
 </ul>
 ### 📄 My Resume:
 <ul>
-  <li><a href="Sandip_Resume.pdf" download="Sandip_Patel_Resume.pdf">📥 Download My Resume</a></li>
+  <li><a href="Sandip_Resume.pdf" download="Sandip_Resume.pdf">📥 Download My Resume</a></li>
 </ul>
